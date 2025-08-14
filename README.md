@@ -1,23 +1,25 @@
 <h2 align="center">Hi there 👋</h2>
 
 <p align="center">
+  <br>
   <a href="https://vitbhopal.ac.in/">
     <img src="https://img.shields.io/badge/VIT%20Bhopal-University-blue?logo=GoogleScholar&style=for-the-badge" alt="VIT Bhopal"/>
   </a>
-  <p>  </p>
+  <br><br>
   <a href="https://github.com/PravinKumar1312">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge" alt="GitHub Profile"/>
   </a>
-  <p>  </p>
+  <br><br>
   <a href="https://leetcode.com/Gladden1312/">
     <img src="https://img.shields.io/badge/LeetCode-Coding-orange?logo=leetcode&style=for-the-badge" alt="LeetCode"/>
   </a>
-  <p>  </p>
+  <br><br>
   <a href="mailto:mr.gladdenpravin@gmail.com">
     <img src="https://img.shields.io/badge/Email--me-red?logo=gmail&style=for-the-badge" alt="Email"/>
   </a>
-  
+  <br>
 </p>
+
 
 ---
 
