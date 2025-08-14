@@ -4,15 +4,19 @@
   <a href="https://vitbhopal.ac.in/">
     <img src="https://img.shields.io/badge/VIT%20Bhopal-University-blue?logo=GoogleScholar&style=for-the-badge" alt="VIT Bhopal"/>
   </a>
-  <a href="https://github.com/bropravin">
+  <p>  </p>
+  <a href="https://github.com/PravinKumar1312">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge" alt="GitHub Profile"/>
   </a>
-  <a href="https://leetcode.com/bropravin/">
+  <p>  </p>
+  <a href="https://leetcode.com/Gladden1312/">
     <img src="https://img.shields.io/badge/LeetCode-Coding-orange?logo=leetcode&style=for-the-badge" alt="LeetCode"/>
   </a>
-  <a href="mailto:your_email@example.com">
+  <p>  </p>
+  <a href="mailto:mr.gladdenpravin@gmail.com">
     <img src="https://img.shields.io/badge/Email--me-red?logo=gmail&style=for-the-badge" alt="Email"/>
   </a>
+  
 </p>
 
 ---
@@ -49,65 +53,16 @@
 
 ---
 
-## 📂 Projects
-
-- ➡️ **Image Slider**
-- ➡️ **Personal Portfolio Website**
-- ➡️ **To-Do App List**
-- ➡️ **Advanced Expense Tracker**
-
----
-
-## 🎯 Interests
-
-- Anime (side characters with deep backstories)
-- App & web development
-- Ethical hacking & cybersecurity
-- Linux & terminal mastery
-- Self-improvement & inner healing
-- Authentic self-discovery
-
----
-
-## 🧠 Learning Goals
-
-- Master intermediate Ubuntu terminal
-- Achieve intermediate App development
-- Build a strong full-stack development foundation
-
----
-
-## 💡 Personality Traits
-
-- Creative & visionary (unique project ideas like "plantation investment")
-- Independent worker (prefers solo project work)
-- Deep thinker (self-reflective, authentic)
-- Detail-oriented (optimizing, refining, thorough work)
-- Non-intrusive helper (makes an impact without interfering)
-- Persistent learner (multiple tracks: web dev, app dev, security, Linux)
-- Analytical (logical, methodical problem solving)
-
----
-
-## 🗣 Communication Style
-
-- Direct & clear when seeking help
-- Goal-driven (focused conversations, result-oriented)
-- Open to detailed, structured explanations
-- Values efficiency over chit-chat
-
----
-
-<h3>Personal Portfolio: </h3>
+<h3 src="https://um-projetcs-f1iqqhhme-gladdens-projects-b4f82616.vercel.app?_vercel_share=slyuBQg3GJkvmguApCsLocZVwwYm98UN">Personal Portfolio: </h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bropravin&show_icons=true&count_private=true&theme=gruvbox" width="370" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PravinKumar1312&show_icons=true&count_private=true&theme=gruvbox" width="370" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/bropravin"><b>🚀 See my projects!</b></a> |
-  <a href="mailto:mr.gladdenpravin@example.com"><b>📧 Contact Me</b></a>
+  <a href="https://github.com/PravinKumar1312"><b>🚀 See my projects!</b></a> |
+  <a href="mailto:mr.gladdenpravin@gmail.com"><b>📧 Contact Me</b></a>
 </p>
 
 > 🔭 *Always experimenting, building, and learning — driven by curiosity and a love for tech.*
