@@ -67,7 +67,9 @@
 <h3>Stats: </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PravinKumar1312&show_icons=true&count_private=true&theme=gruvbox" width="370" />
+  <img src="https://leetcard.jacoblin.cool/Gladden1312?ext=heatmap" width="370" />
 </p>
+
 
 ---
 
