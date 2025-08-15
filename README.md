@@ -64,9 +64,11 @@
 
 
 ---
-<h3>Stats: </h3>
+<h3>Stats</h3>
 <p align="center">
+  <h5>Github: </h5>
   <img src="https://github-readme-stats.vercel.app/api?username=PravinKumar1312&show_icons=true&count_private=true&theme=gruvbox" width="370" />
+  <h5>LeetCode: </h5>
   <img src="https://leetcard.jacoblin.cool/Gladden1312?ext=heatmap" width="370" />
 </p>
 
