@@ -3,25 +3,25 @@
 <p align="center">
   <br>
   <a href="https://vitbhopal.ac.in/">
-    <img src="https://img.shields.io/badge/VIT%20Bhopal-University-blue?logo=GoogleScholar&style=for-the-badge" alt="VIT Bhopal"/>
+    <img src="https://img.shields.io/badge/VIT%20Bhopal-%F0%9F%91%8D%20University-blue?logo=GoogleScholar&style=for-the-badge&labelColor=232d3f&color=0062af" alt="VIT Bhopal"/>
   </a>
   <br><br>
   <a href="https://github.com/PravinKumar1312">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/%F0%9F%91%A8%F0%9F%92%BB%20GitHub-Profile-181717?logo=github&style=for-the-badge&labelColor=232d3f" alt="GitHub Profile"/>
   </a>
   <br><br>
   <a href="https://leetcode.com/Gladden1312/">
-    <img src="https://img.shields.io/badge/LeetCode-Coding-orange?logo=leetcode&style=for-the-badge" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/%F0%9F%9B%A0%20LeetCode-Coding-FFA116?logo=leetcode&style=for-the-badge&labelColor=333333" alt="LeetCode"/>
   </a>
   <br><br>
   <a href="mailto:mr.gladdenpravin@gmail.com">
-    <img src="https://img.shields.io/badge/Email--me-red?logo=gmail&style=for-the-badge" alt="Email"/>
+    <img src="https://img.shields.io/badge/%F0%9F%93%A8%20Email-Me-ff4444?logo=gmail&style=for-the-badge&labelColor=232d3f" alt="Email"/>
   </a>
   <br>
 </p>
 
-
 ---
+
 
 ## 🧾 Personal & Academic
 
@@ -38,20 +38,24 @@
 ## 💻 Technical Skills
 
 ### Programming & Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge) 
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+![HTML](https://img.shields.io/badge/HTML5-232d3f?logo=html5&logoColor=E34F26&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-232d3f?logo=css3&logoColor=1572B6&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-232d3f?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-232d3f?logo=next.js&logoColor=fff&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-232d3f?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-232d3f?logo=kotlin&logoColor=0095D5&style=for-the-badge)
+![React Native](https://img.shields.io/badge/React%20Native-232d3f?logo=react&logoColor=61DAFB&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-232d3f?logo=mysql&logoColor=4479A1&style=for-the-badge)
+
+---
 
 ### Systems & Tools
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-f76225?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-green?logo=symantec&style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-232d3f?logo=symantec&logoColor=white&style=for-the-badge)
 
 ---
 
