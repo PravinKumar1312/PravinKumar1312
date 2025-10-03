@@ -6,10 +6,6 @@
     <img src="https://img.shields.io/badge/VIT%20Bhopal-%F0%9F%91%8D%20University-blue?logo=GoogleScholar&style=for-the-badge&labelColor=232d3f&color=0062af" alt="VIT Bhopal"/>
   </a>
   <br><br>
-  <a href="https://github.com/PravinKumar1312">
-    <img src="https://img.shields.io/badge/%F0%9F%91%A8%F0%9F%92%BB%20GitHub-Profile-181717?logo=github&style=for-the-badge&labelColor=232d3f" alt="GitHub Profile"/>
-  </a>
-  <br><br>
   <a href="https://leetcode.com/Gladden1312/">
     <img src="https://img.shields.io/badge/%F0%9F%9B%A0%20LeetCode-Coding-FFA116?logo=leetcode&style=for-the-badge&labelColor=333333" alt="LeetCode"/>
   </a>
