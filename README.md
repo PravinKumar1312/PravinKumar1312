@@ -80,4 +80,4 @@
   <a href="mailto:mr.gladdenpravin@gmail.com"><b>📧 Contact Me</b></a>
 </p>
 
-> 🔭 *Always experimenting, building, and learning — driven by curiosity and a love for tech.*
+> 🔭 *Oh Captain; My Captain..!! - Deadpoet Society*
