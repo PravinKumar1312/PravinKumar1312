@@ -57,7 +57,7 @@
 
 <p align="center">
   <h3>Personal Portfolio:</h3>
-  <a href="https://um-projetcs-f1iqqhhme-gladdens-projects-b4f82616.vercel.app?_vercel_share=slyuBQg3GJkvmguApCsLocZVwwYm98UN" style="text-decoration:none;">
+  <a href="https://personal-portfolio-five-gamma-18.vercel.app/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Visit_Portfolio-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Portfolio Button" />
   </a>
 </p>
@@ -66,8 +66,8 @@
 ---
 <h3>Stats</h3>
 <p align="center">
-  <h5>Github: </h5>
-  <img src="https://github-readme-stats.vercel.app/api?username=PravinKumar1312&show_icons=true&count_private=true&theme=gruvbox" width="370" />
+  <!-- <h5>Github: </h5>
+  <img src="https://github-readme-stats.vercel.app/api?username=PravinKumar1312&show_icons=true&count_private=true&theme=gruvbox" width="370" /> -->
   <h5>LeetCode: </h5>
   <img src="https://leetcard.jacoblin.cool/Gladden1312?ext=heatmap" width="370" />
 </p>
